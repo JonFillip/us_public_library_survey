@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e31012b-44c9-4fa7-8329-02199e8d4593" name="Default Changelist" comment="" />
+    <list default="true" id="5e31012b-44c9-4fa7-8329-02199e8d4593" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pls_fy2016_data_files_csv/PLS_FY2016_AE_pupld16a_updated.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pls_fy2016_data_files_csv/PLS_FY2016_Outlet_puout16a.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pls_fy2016_data_files_csv/PLS_FY2016_State_pusum16a.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pls_fy2016_data_files_csv/README FY2016 PLS PUD.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pupld10a_csv/puout10a.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pupld10a_csv/pupld10a.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pupld10a_csv/pusum10a.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pupld12a_csv/Puout12a.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pupld12a_csv/Pupld12a.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pupld12a_csv/Pusum12a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZiwI6CKNemg2zaEDhDovxMkirP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -57,5 +77,11 @@
       <updated>1585335139560</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="637" y="432" key="com.intellij.ide.util.TipDialog" timestamp="1585335269733">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="637" y="432" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1585335269733" />
   </component>
 </project>
