@@ -761,3 +761,16 @@ ON imlsreg.obereg = imls2010.obereg
 WHERE imls2016.visits >= 0 AND imls2010.visits >= 0
 GROUP BY imlsreg.obereg, imlsreg.obereg_name
 ORDER BY pct_change_in_visits ASC;
+
+-- RANKING LIBRARY AGENCIES BASED ON RATES OF VISITS PER 1000
+SELECT libname,
+		address,
+		stabr,
+		city,
+		cnty,
+		popu_lsa,
+		visits,
+		ROUND((visits::numeric / popu_lsa) * 1000, 1) AS visits_per_1000
+FROM imls_library_survey_2016
+WHERE popu_lsa >= 250000
+ORDER BY visits_per_1000 DESC;
